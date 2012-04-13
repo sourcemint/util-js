@@ -1,0 +1,9 @@
+{
+    "name": "sourcemint-util-js",
+    "version": "0.1.1",
+    "dependencies": {
+        "n-util": "0.x",
+        "q": "0.x",
+        "glob": "3.x"
+    }
+}
