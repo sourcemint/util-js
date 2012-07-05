@@ -6,6 +6,7 @@
         "n-util": "0.0.x",
         "q": "0.8.x",
         "glob": "3.x",
-        "wrench": "1.x"
+        "wrench": "1.x",
+        "console-trace": "https://github.com/LearnBoost/console-trace/tarball/8a54bf706d001f1eef166b99391e952e4be10982"
     }
 }
