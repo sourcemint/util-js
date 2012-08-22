@@ -1,6 +1,6 @@
 {
   "name": "sourcemint-util-js",
-  "version": "0.1.39",
+  "version": "0.1.40",
   "dependencies": {
     "n-util": {
       "version": "0.0.1"
