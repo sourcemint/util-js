@@ -38,6 +38,9 @@
           "version": "0.0.2"
         }
       }
+    },
+    "request": {
+        "version": "2.x.x"
     }
   }
 }
