@@ -8,6 +8,7 @@
         "q": "0.8.5",
         "glob": "3.x",
         "wrench": "1.x",
-        "console-trace": "0.2.x"
+        "console-trace": "0.2.x",
+        "tunnel": "0.0.x"
     }
 }
