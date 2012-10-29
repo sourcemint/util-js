@@ -3,7 +3,7 @@
   "version": "0.1.31",
   "dependencies": {
     "glob": {
-      "version": "3.1.12"
+      "version": "3.1.11"
     }
   }
 }
