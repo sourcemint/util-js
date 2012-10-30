@@ -1,5 +1,5 @@
 {
-    "#": "To update this file, modify package.json files, commit and run: `sm update`",
+    "#": "To update this file, modify package.json files, commit, and run: `sm update`",
     "packages": {
         "node_modules/glob": {
             "location": "http://registry.npmjs.org/glob/-/glob-3.1.11.tgz"
