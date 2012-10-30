@@ -1,0 +1,23 @@
+{
+    "#": "To update this file, modify package.json files, commit, and run: `sm update`",
+    "packages": {
+        "node_modules/glob": {
+            "location": "http://registry.npmjs.org/glob/-/glob-3.1.11.tgz"
+        },
+        "node_modules/glob/node_modules/graceful-fs": {
+            "location": "http://registry.npmjs.org/graceful-fs/-/graceful-fs-1.1.14.tgz"
+        },
+        "node_modules/glob/node_modules/inherits": {
+            "location": "http://registry.npmjs.org/inherits/-/inherits-1.0.0.tgz"
+        },
+        "node_modules/glob/node_modules/minimatch": {
+            "location": "http://registry.npmjs.org/minimatch/-/minimatch-0.2.9.tgz"
+        },
+        "node_modules/glob/node_modules/minimatch/node_modules/lru-cache": {
+            "location": "http://registry.npmjs.org/lru-cache/-/lru-cache-2.0.4.tgz"
+        },
+        "node_modules/glob/node_modules/minimatch/node_modules/sigmund": {
+            "location": "http://registry.npmjs.org/sigmund/-/sigmund-1.0.0.tgz"
+        }
+    }
+}
