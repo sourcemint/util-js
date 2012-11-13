@@ -8,6 +8,7 @@
         "glob": "3.x",
         "wrench": "1.x",
         "console-trace": "0.2.x",
-        "tunnel": "0.0.x"
+        "tunnel": "0.0.x",
+        "waitfor": "0.1.x"
     }
 }
