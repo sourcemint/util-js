@@ -9,6 +9,7 @@
         "wrench": "1.x",
         "console-trace": "0.2.x",
         "tunnel": "0.0.x",
-        "waitfor": "0.1.x"
+        "waitfor": "0.1.x",
+        "netutil": "0.0.x"        
     }
 }
