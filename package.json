@@ -11,5 +11,8 @@
         "tunnel": "0.0.x",
         "waitfor": "0.1.x",
         "netutil": "0.0.x"        
+    },
+    "scripts": {
+        "test": "node tests/_run.js"
     }
 }
